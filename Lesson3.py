@@ -9,10 +9,10 @@ print("Уравнение прямой, проходящей через эти �
 x_diff = x1 - x2
 y_diff = y1 - y2
 if x_diff == 0:
-    print("x = ", x1)
+    print("X = ", x1)
 elif y_diff == 0:
-    print("y = ", y1)
+    print("Y = ", y1)
 else:
     k = y_diff / x_diff
     b = y2 - k * x2
-    print("y = ", k, " * x + ", b)
+    print("Y = ", k, " * X + ", b)
