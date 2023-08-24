@@ -1,7 +1,7 @@
-print("Введите начальную точку")
+print("Введите начальную точ")
 x1 = float(input('X: '))
 y1 = float(input('Y: '))
-print("\nВведите конечную точку")
+print("\nВведите конечную точ")
 x2 = float(input('X: '))
 y2 = float(input('Y: '))
 
