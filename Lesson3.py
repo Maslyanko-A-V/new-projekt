@@ -1,9 +1,9 @@
 print("Введите начальную точ")
-x1 = float(input('X: '))
-y1 = float(input('Y: '))
+x1 = float(input('A: '))
+y1 = float(input('B: '))
 print("\nВведите конечную точ")
-x2 = float(input('X: '))
-y2 = float(input('Y: '))
+x2 = float(input('A: '))
+y2 = float(input('B: '))
 
 print("Уравнение прямой, проходящей через эти точки:")
 x_diff = x1 - x2
